@@ -1,3 +1,16 @@
+<img src="src/assets/home.png"/>
+<img src="src/assets/dev.png"/>
+
+<h2>Condominio Gestão</h2><br>
+<h3>Frontend em ReactJs, utilizando Core UI</h3><br>
+<ul>
+  <li>Reservas de Areas dentro do condomio</li>
+  <li>Registros de ocorencias, achados e perdidos</li>
+  <LI>Cadastro de Usuarios, Unidades e Areas Comuns</li>
+</ul>
+
+
+
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
 [![npm package][npm-coreui-badge]][npm-coreui]
 [![NPM downloads][npm-coreui-download]][npm-coreui]  
